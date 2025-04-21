@@ -6,5 +6,6 @@ public class day2 {
 	@Test
 	public void personalLoan(){
 		System.out.println("Congratulations, TestNG implementation is successful!");
+		//practice
 	}
 }
